@@ -72,10 +72,10 @@ export const property: Property = {
     'Certificate SHM',
   ],
   gallery: [
-    { src: '/images/RumahDijual002.png', alt: 'Tampak Depan — Setia Residence', span: true },
-    { src: '/images/RumahDijual001.png', alt: 'Denah Lokasi Tampak Atas' },
-    { src: '/images/Rumah_Dijual.png', alt: 'Eksterior Setia Residence' },
-    { src: '/images/Rumah_Dijual_02.png', alt: 'Area Depan & Teras', span: false },
+    { src: '/images/RumahDijual002.webp', alt: 'Tampak Depan — Setia Residence', span: true },
+    { src: '/images/RumahDijual001.webp', alt: 'Denah Lokasi Tampak Atas' },
+    { src: '/images/Rumah_Dijual.webp', alt: 'Eksterior Setia Residence' },
+    { src: '/images/Rumah_Dijual_02.webp', alt: 'Area Depan & Teras', span: false },
   ],
   facilities: [
     { icon: 'Sofa', title: 'Ruang Tamu Sangat Luas', description: 'Ruang tamu lega dan nyaman, dirancang untuk kebersamaan keluarga yang hangat.' },

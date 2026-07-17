@@ -53,7 +53,7 @@ export function Highlights() {
         className="mt-12 glass-card rounded-3xl overflow-hidden luxury-shadow"
       >
         <img
-          src="/images/RumahDijual001.png"
+          src="/images/RumahDijual001.webp"
           alt="Denah Lokasi Tampak Atas — Setia Residence"
           loading="lazy"
           className="w-full h-auto"

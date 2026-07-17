@@ -10,7 +10,7 @@ export function Hero() {
       {/* Background */}
       <div className="absolute inset-0">
         <img
-          src="/images/RumahDijual002.png"
+          src="/images/RumahDijual002.webp"
           alt="Setia Residence"
           className="w-full h-full object-cover object-top"
         />
